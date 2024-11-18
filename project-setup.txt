@@ -1,0 +1,26 @@
+project-root/
+├── package.json
+├── next.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── .gitignore
+├── README.md
+├── src/
+│   ├── app/
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   ├── thesis/
+│   │   │   └── page.tsx
+│   │   ├── investors/
+│   │   │   └── page.tsx
+│   │   ├── founders/
+│   │   │   └── page.tsx
+│   │   └── team/
+│   │       └── page.tsx
+│   └── components/
+│       └── ui/
+│           └── card.tsx
+└── public/
+    └── api/
+        └── placeholder/
+            └── [...dimensions].ts
