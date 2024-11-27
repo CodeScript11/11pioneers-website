@@ -39,7 +39,7 @@ const KontaktPage = () => {
                 </div>
               </div>
 
-              {/* Contact Form 
+              {/* Contact Form */}
               <div className="bg-white/5 p-6 rounded-lg">
                 <h2 className="text-2xl font-bold mb-6">Kontaktformular</h2>
                 <form className="space-y-4">
@@ -119,8 +119,6 @@ const KontaktPage = () => {
             </div>
           </div>
         </section>
-
-          */}
       </main>
     </div>
   );
