@@ -13,11 +13,11 @@ const KontaktPage = () => {
               {/* Contact Information */}
               <div className="space-y-8">
                 <div>
-                  <h2 className="text-2xl font-bold mb-4">Büro Berlin</h2>
+                  <h2 className="text-2xl font-bold mb-4">Büro Deutschland</h2>
                   <p className="text-gray-300">
                     11 Pioneers GmbH<br />
-                    Sample Street 123<br />
-                    10115 Berlin<br />
+                    Kreuzstraße 33a<br />
+                    66557 Illingen<br />
                     Deutschland
                   </p>
                 </div>
@@ -25,8 +25,8 @@ const KontaktPage = () => {
                 <div>
                   <h2 className="text-2xl font-bold mb-4">Kontaktdaten</h2>
                   <p className="text-gray-300">
-                    Email: contact@11pioneers.com<br />
-                    Telefon: +49 (0) 30 123456789
+                    Email: fabian@11pioneers.com<br />
+                    Telefon: +49 155/60544648
                   </p>
                 </div>
 
@@ -39,7 +39,7 @@ const KontaktPage = () => {
                 </div>
               </div>
 
-              {/* Contact Form */}
+              {/* Contact Form 
               <div className="bg-white/5 p-6 rounded-lg">
                 <h2 className="text-2xl font-bold mb-6">Kontaktformular</h2>
                 <form className="space-y-4">
@@ -119,6 +119,8 @@ const KontaktPage = () => {
             </div>
           </div>
         </section>
+
+          */}
       </main>
     </div>
   );
