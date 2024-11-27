@@ -49,7 +49,7 @@ const ImpressumPage = () => {
                 <h2 className="text-2xl font-bold mb-4">Haftungshinweis</h2>
                 <p className="text-gray-300">
                   Die 11 Pioneers GmbH übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen.
-                  Haftungsansprüche gegenüber der 11 Pioneers GmbH, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens der 11 Pioneers GmbH kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt. Alle Angebote sind freibleibend und unverbindlich.
+                  Haftungsansprüche gegenüber der 11 Pioneers GmbH, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.
                 </p>
               </div>
 
@@ -57,7 +57,7 @@ const ImpressumPage = () => {
                 <h2 className="text-2xl font-bold mb-4">Streitbeilegung</h2>
                 <p className="text-gray-300">
                   Informationen zur Streitbeilegung mit Verbrauchern: 
-                  Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung bereit, die Sie unter <a href="http://ec.europa.eu/consumers/odr/" aria-label="Link zur Plattform der Europäischen Kommission zur Online-Streitbeilegung">http://ec.europa.eu/consumers/odr/</a> finden.
+                  Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung bereit, die Sie unter <a href="http://ec.europa.eu/consumers/odr/" aria-label="Link zur Plattform der Europäischen Kommission zur Online-Streitbeilegung">diesem Link</a> erreichen können.
                   Die 11 Pioneers GmbH nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil und ist hierzu auch nicht verpflichtet (Allgemeine Hinweispflicht gemäß § 36 VSBG).
                 </p>
               </div>
