@@ -25,11 +25,11 @@ const DatenschutzPage = () => {
                 <h3 className="text-xl font-semibold mb-2">Verantwortliche Stelle</h3>
                 <p className="text-gray-300">
                   11 Pioneers GmbH<br />
-                  Sample Street 123<br />
-                  10115 Berlin<br />
+                  Kreuzstraße 33a<br />
+                  66557 Illingen<br />
                   Deutschland<br /><br />
-                  E-Mail: privacy@11pioneers.com<br />
-                  Telefon: +49 (0) 30 123456789
+                  E-Mail: fabian@11pioneers.com<br />
+                  Telefon: +49 155/60544648
                 </p>
               </div>
 
@@ -89,9 +89,9 @@ const DatenschutzPage = () => {
                   an die für den Datenschutz verantwortliche Person in unserer Organisation:<br /><br />
                   Datenschutzbeauftragter<br />
                   11 Pioneers GmbH<br />
-                  Sample Street 123<br />
-                  10115 Berlin<br />
-                  E-Mail: dpo@11pioneers.com
+                  Kreuzstraße 33a<br />
+                  66557 Illingen<br />
+                  E-Mail: fabian@11pioneers.com
                 </p>
               </div>
             </div>
